@@ -3,3 +3,6 @@
 <!--
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XargonWan&theme=dark&layout=compact&langs_count=8&card_width=320)](https://github.com/anuraghazra/github-readme-stats)
 -->
+<div align="center">
+  <img align="center" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/snake/github-contribution-grid-snake-dark.svg">
+</div>
